@@ -1,3 +1,25 @@
-.container {
-    align-content: center
+#container {
+    padding: 30px;
+    border: black solid;
+}
+
+#input{
+    height: 100px;
+    font-size: 30px;
+
+}
+#add{
+    background-color: green;
+    font-size: 36px;
+}
+
+#minus {
+    background-color: red;
+    font-size: 36px;
+}
+
+#display{
+    font-size: 50px;
+    padding: 10px;
+    margin-left: 60px;
 }
